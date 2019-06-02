@@ -3,6 +3,11 @@
 <h1>Hướng dẫn sử dụng GITHUB</h1>
 Thực hành git <br/>
 how to use git hub
+lần đầu bạn phải config bằng câu lệnh: 
+<code>
+    git config --global user.name "Tên bạn"  <br/>
+    git config --global user.email "Email của bạn"
+</code>
 git clone link vùng chứa : nó sẽ nằm ở vùng working coppy
 git status sẽ kiểm tra trang thái. Màu đỏ sẽ nằm ở vùng working coppy, màu xanh thì ở vùng staging area
 git add . : để đưa tất cả về staging area (nếu git status hiện ra màu xanh là oki)
