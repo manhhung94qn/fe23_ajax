@@ -13,3 +13,4 @@ git push origin <ten nhanh>: sẽ đưa lên nhánh chính, nó sẽ hiện yêu
 git branch : kiểm tra nhánh
 git branch tennhanh : tao nhanh
 git checkout tennhanh : dung de chuyen nhanh
+Để kiểm tra cập nhật thì đưa về nhánh master sau đó dùng lệnh git pull
