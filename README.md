@@ -1,6 +1,6 @@
 # fe23_ajax
 
-Thực hành git
+Thực hành git <br/>
 how to use git hub
 git clone link vùng chứa : nó sẽ nằm ở vùng working coppy
 git status sẽ kiểm tra trang thái. Màu đỏ sẽ nằm ở vùng working coppy, màu xanh thì ở vùng staging area
