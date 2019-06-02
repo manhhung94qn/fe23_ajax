@@ -1,6 +1,7 @@
 # fe23_ajax
 
 <h1>Hướng dẫn sử dụng GITHUB</h1>
+
 Thực hành git <br/>
 how to use git hub
 git clone link vùng chứa : nó sẽ nằm ở vùng working coppy
@@ -10,6 +11,6 @@ git commit -m :"Nội dung đưa lên lần này, viết gì cũng được" :t�
 git push origin <ten nhanh>: sẽ đưa lên nhánh chính, nó sẽ hiện yêu cầu nhập tên và tài khoản. ví dụ: git push origin master
 
 ///Nhánh trong github <br/>
-git branch : kiểm tra nhánh
-git branch tennhanh : tao nhanh
-git checkout tennhanh : dung de chuyen nhanh
+<code>git branch</code> : kiểm tra nhánh
+<code>git branch tennhanh</code> : tao nhanh
+<code>git checkout tennhanh </code>: dung de chuyen nhanh
